@@ -4,7 +4,7 @@ scraper
 *scraper* is a console application that scrapes the Sainsbury’s grocery site - Ripe Fruits page and prints out
 a JSON array of all the products on the page.
 
-GitHub project repository: https://github.com/kiranyenigala/scraper
+GitHub project repository: https://github.com/kiranyenigala/scraper.git
 
 source tree
 -----------
